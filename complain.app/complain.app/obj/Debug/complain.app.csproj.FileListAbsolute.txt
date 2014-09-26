@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\complain.app\complain.app\bin\Debug\complain.app.exe.config
+C:\Users\PC21\Desktop\complain.app\complain.app\bin\Debug\complain.app.exe
+C:\Users\PC21\Desktop\complain.app\complain.app\bin\Debug\complain.app.pdb
+C:\Users\PC21\Desktop\complain.app\complain.app\obj\Debug\complain.app.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\complain.app\complain.app\obj\Debug\complain.app.CustomerComplainUI.resources
+C:\Users\PC21\Desktop\complain.app\complain.app\obj\Debug\complain.app.Properties.Resources.resources
+C:\Users\PC21\Desktop\complain.app\complain.app\obj\Debug\complain.app.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\complain.app\complain.app\obj\Debug\complain.app.exe
+C:\Users\PC21\Desktop\complain.app\complain.app\obj\Debug\complain.app.pdb
